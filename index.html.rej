@@ -1,0 +1,4 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1 +1,2 @@
+ <p>テスト</p>
++<p>プルのテストをします。</p>
